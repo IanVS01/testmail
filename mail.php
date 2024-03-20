@@ -5,7 +5,7 @@
     $email = "ian.spanje@student.graafschapcollege.nl"; // sender mail address use your own!
 
     // Recipient email address
-    $to = '<username>@<username>.gc-webhosting.nl';
+    $to = 'net24ispanje@net24ispanje.gc-webhosting.nl';
             
     // Create email headers
     $headers = 'From: '. $email . "\r\n" .
